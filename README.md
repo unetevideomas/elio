@@ -2,7 +2,7 @@
 
 La Mejor Plantilla Para Chat en App Creator24
 
-</p><p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/unetevideomas/elio/main/eliohellp.png" alt="Interfaz de selección para permitir aplicaciones menos seguras" width="1062" height="612" style="max-width: 100%;"></a></p>
+</p><p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/unetevideomas/elio/main/eliohellp.png" alt="Interfaz de selección para permitir aplicaciones menos seguras" width="450" height="259" style="max-width: 100%;"></a></p>
 
 
 <p dir="auto">Solicite la plantilla de demostración de forma privada en Telegram.</p>
